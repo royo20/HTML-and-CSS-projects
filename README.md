@@ -2,10 +2,10 @@
 A repository for assignments on the HTML and CSS course 
 
 ## Projects
-*[Skin Care Site](https://github.com/royo20/HTML-and-CSS-projects/tree/main/skinCare-project)
-*[Movie Theater Site](https://github.com/royo20/HTML-and-CSS-projects/tree/main/academy-cinema)
-*[One Page WebSite](https://github.com/royo20/HTML-and-CSS-projects/tree/main/one-page-website)
-*[Portfolio Site](https://github.com/royo20/HTML-and-CSS-projects/tree/main/html-portfolio)
+* [Skin Care Site](https://github.com/royo20/HTML-and-CSS-projects/tree/main/skinCare-project)
+* [Movie Theater Site](https://github.com/royo20/HTML-and-CSS-projects/tree/main/academy-cinema)
+* [One Page WebSite](https://github.com/royo20/HTML-and-CSS-projects/tree/main/one-page-website)
+* [Portfolio Site](https://github.com/royo20/HTML-and-CSS-projects/tree/main/html-portfolio)
 
 ### Skin Care Site
 This page is an example home page for recommended skin care. Styled using CSS and contains a navbar, images, containers and a form.
